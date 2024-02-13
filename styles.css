@@ -1,0 +1,35 @@
+font-family: "Roboto", sans-serif;
+font-weight: 5000;
+font-style: normal;
+
+.fuente{
+    color: rgb(0, 0, 0);
+    font-size: 5rem;
+
+}
+
+/* #parrafo {
+    color: red;
+} */
+
+.cuadrito{
+    background-color: rgb(235, 11, 255);
+    width: 500px;
+    height: 200px;
+    padding: 1rem;
+    margin: 2rem;
+    box-sizing: border-box;
+}
+
+.cuadrito2{
+    background-color: blue;
+    width: 400px;
+    height: 50px;
+    padding-left: 3rem;
+    margin: 4rem;
+}
+.cuadrito2:hover{
+transition: 0.5s ease-in;
+    background-color: blueviolet;
+    transition: 0.5s ease-in;
+}
